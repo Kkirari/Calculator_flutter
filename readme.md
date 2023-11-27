@@ -4,4 +4,4 @@ This calculator is create for present to university (flutter, dart skill)
 - UI reference by iphone calulator
 
 
-![preview img](flutter.png = 250x1000)
+![preview img](flutter.png  | width=100)
